@@ -3,7 +3,7 @@ import torch
 import numpy as np
 import os
 from torch.utils.data import Dataset
-from torch.utils.data import Dataloader
+from torch.utils.data import DataLoader
 
 def tokenize(image,patch_size):
     if type(image) == np.ndarray :
