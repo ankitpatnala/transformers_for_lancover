@@ -1,0 +1,4 @@
+models/wandb
+models/transformers_eurosat
+models/run-*.5*
+
